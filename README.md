@@ -18,7 +18,7 @@ Or,
 Clone the Repository,
 
 ```sh
-$ git clone https://github.com/dsciitpatna/Shabd.git
+$ git clone https://github.com/Diptadip/prompt_verse/
 ```
 Then enter the directory, and
 
@@ -45,3 +45,9 @@ The web is built using NextJs and uses Google Cloud APi for Google authenticatio
 * Search blogs by keywords, tags, or username of creator.
 * group blogs tagwise.
 * Visit profiles of users.
+
+## TODO
+- [ ] Use APIs to use GPT prompts directly from the Blog Site.
+- [ ] Add other authentications like email and phone nuber.
+- [ ] Allow users to bookmark blogs for later use.
+- [ ] Allow users to like and comment on the posts.
